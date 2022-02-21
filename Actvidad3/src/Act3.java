@@ -12,7 +12,7 @@ public class Act3
         } 
         for (int i = 7; i < 100; i += 7)
         {
-            System.out.println(i);
+            System.out.println(i + "Little things ");
         } 
     }
 }
